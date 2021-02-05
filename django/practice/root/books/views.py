@@ -32,6 +32,6 @@ class BookDetail(DetailView):
 
 class AuthorDetail(DetailView):
     model = Author
-       
+
 class PublisherDetail(DetailView):
     model = Publisher
